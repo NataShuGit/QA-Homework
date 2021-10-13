@@ -1,4 +1,6 @@
-ФИО
-возраст
-количество домашних животных
-будущая желаемая зарплата
+<person>
+  <name>Nataliya</name>
+  <age>31</age>
+  <pets>0</pets>
+  <desired salary>2000</desired salary>
+</person>
